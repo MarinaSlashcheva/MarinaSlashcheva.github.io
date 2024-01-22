@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: PhD Candidate
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Marina 
+last_name: Slashcheva
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate at Karolinska Institutet
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Karolinska Institutet
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
